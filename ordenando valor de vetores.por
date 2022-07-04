@@ -1,5 +1,5 @@
 programa {
-
+// teste
         inteiro vet[3]
         inteiro cont, contA, contB, aux
 
